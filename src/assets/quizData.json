@@ -1,0 +1,71 @@
+{
+  "questions":[
+      {
+        "question":  "Which US state is closest to the former Soviet Union?",
+        "choices": ["Hawaii", "Alaska", "Oregon", "Nebraska"],
+        "type": "MCQs",
+        "correctAnswer": "Alaska"
+      },
+      {
+        "question":
+          "Which reggae singing star died in 1981?",
+        "choices": ["Peter Tosh", "Bob Marley", "Jimmy Cliff", "Bob Dylon"],
+        "type": "MCQs",
+        "correctAnswer": "Bob Marley"
+      },
+      {
+        "question":
+          "In which city was Martin Luther King, Jr. assassinated in 1968?",
+        "choices": [
+          "Nashville, TN",
+          "Memphis, TN",
+          "Savannah, GA",
+          "London, ON"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Memphis, TN"
+      },
+      {
+        "question": "What is the smallest member of the flute family?",
+        "choices": ["Concert flute", "Soprano flute", "Piccolo", "Alto flute"],
+        "type": "MCQs",
+        "correctAnswer": "Piccolo"
+      },
+      {
+        "question": "What is the national animal of Canada?",
+        "choices": ["Moose", "Beaver", "Horse", "Tiger"],
+        "type": "MCQs",
+        "correctAnswer": "Beaver"
+      },
+      {
+        "question": "In computing what is RAM short for?",
+        "choices": ["Random Access Memory", "Random article meme", "Random archival memory", "Read Only Memory"],
+        "type": "MCQs",
+        "correctAnswer": "Random Access Memory"
+      },
+      {
+        "question": "Which philosopher said, 'I think therefore I am?'",
+        "choices": ["Rene Descartes", "John Locke", "Plato", "Gandhi"],
+        "type": "MCQs",
+        "correctAnswer": "Rene Descartes"
+      },
+      {
+        "question": "Which country has the longest coastline?",
+        "choices": ["The United States", "Australia", "Canada", "Newzeland"],
+        "type": "MCQs",
+        "correctAnswer": "Canada"
+      },
+      {
+        "question": "What is the name given to a male swan?'",
+        "choices": ["Cob", "Pen", "Cygnet", "Sea Horse"],
+        "type": "MCQs",
+        "correctAnswer": "Cob"
+      },
+      {
+        "question": "What is the capital of Australia?",
+        "choices": ["Sydney", "Melbourne", "Canberra", "Tasmania"],
+        "type": "MCQs",
+        "correctAnswer": "Canberra"
+      }
+
+    ]}
